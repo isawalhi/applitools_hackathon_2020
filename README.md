@@ -35,4 +35,4 @@ Used Selenium JavaScript with Mocha.
 
 #### To run visual AI tests against APP V2:`npm run test:ModernV2`
 
-### Applitools Dashboard - click [Hackathon Dashboard](https://eyes.applitools.com/app/test-results/00000251810847363153/?accountId=85K1X826bUC0YWbMLeUHnw~~)
+### Applitools Dashboard - click [Hackathon Dashboard](https://eyes.applitools.com/app/test-results/00000251810828942177/?accountId=85K1X826bUC0YWbMLeUHnw~~)
