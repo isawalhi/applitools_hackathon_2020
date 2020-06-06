@@ -1,0 +1,21 @@
+{
+  "name": "tutorial-selenium-javascript-visualgrid",
+  "version": "1.1.0",
+  "description": "",
+  "scripts": {
+    "test:ModernV1": "cross-env START_URL=\"https://demo.applitools.com/gridHackathonV1.html\" mocha --no-timeouts modern/test/ModernTestsV1.js",
+    "test:ModernV2": "cross-env START_URL=\"https://demo.applitools.com/gridHackathonV2.html\" mocha --no-timeouts modern/test/ModernTestsV2.js",
+    "test:TraditionalV1": "cross-env START_URL=\"https://demo.applitools.com/gridHackathonV1.html\" mocha --no-timeouts traditional/test/TraditionalTestsV1.js",
+    "test:TraditionalV2": "cross-env START_URL=\"https://demo.applitools.com/gridHackathonV2.html\" mocha --no-timeouts traditional/test/TraditionalTestsV2.js"
+  },
+  "author": "Ibrahim sawalhi",
+  "license": "ISC",
+  "dependencies": {
+    "@applitools/eyes-selenium": "4.38.0",
+    "chai": "4.2.0",
+    "cross-env": "7.0.2",
+    "mocha": "7.2.0",
+    "selenium-webdriver": "4.0.0-alpha.7",
+    "sleep": "6.2.0"
+  }
+}

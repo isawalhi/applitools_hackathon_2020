@@ -1,0 +1,528 @@
+"Task: 1, Test Name: displays logo, DOM Id: logo, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays search input, DOM Id: DIV__customsear__41, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays search icon, DOM Id: I__headericon__44, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays profile dropdown, DOM Id: A__accesslink__56, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays cart dropdown, DOM Id: A__cartbt__49, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays cart badge, DOM Id: STRONG____50, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays top banner, DOM Id: [id*="DIV__topbanner__"], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays sort input, DOM Id: [id*="DIV__sortselect__"], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays filter button, DOM Id: li > [id*="A__openfilter__"], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays sort icon, DOM Id: [id*="DIV__sortselect__"], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays the footer, DOM Id: [id*="FOOTER____"], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: shouldn't display filter submit button, DOM Id: filterBtn, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: shouldn't display filter reset button, DOM Id: resetBtn, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: shouldn't display grid view button, DOM Id: [id*="I__tiviewgrid__"], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: shouldn't display list view button, DOM Id: [id*="I__tiviewlist__"], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: shouldn't display wishlist button, DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: shouldn't display header menu, DOM Id: DIV__mainmenu__15, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: shouldn't display filter sidebar, DOM Id: filter_col, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 products, DOM Id: [id*="DIV__colcolmd__"], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 product wish buttons, DOM Id: [id*="I__tiheart__"], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 product cart buttons, DOM Id: [id*="I__tishopping__"], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 product compare buttons, DOM Id: [id*="I__ticontrols__"], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 13 itmes in the footor, DOM Id: footer .row li[id*='LI____'], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 3 ribbons on all the products, DOM Id: [id*="SPAN__ribbonoff__"], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 product types on all the products, DOM Id: .grid_item > [id*="A____"], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 product prices on all the products, DOM Id: [id*="SPAN__newprice__"], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 3 product old prices on all the products, DOM Id: [id*="SPAN__oldprice__"], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 18 filter items, DOM Id: [id*="LABEL__containerc__"], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 4 filter types, DOM Id: [id*="A__opened__"][class="opened"], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: displays filter button, DOM Id: li > [id*="A__openfilter__"], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: displays sort icon, DOM Id: [id*="DIV__sortselect__"], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 2 products, DOM Id: [id*="DIV__colcolmd__"], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 1 ribbon on all the products, DOM Id: [id*="SPAN__ribbonoff__"], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 2 product types on all the products, DOM Id: .grid_item > [id*="A____"], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 2 product prices on all the products, DOM Id: [id*="SPAN__newprice__"], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 1 product old prices on all the products, DOM Id: [id*="SPAN__oldprice__"], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: shouldn't display grid view button, DOM Id: [id*="I__tiviewgrid__"], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: shouldn't display list view button, DOM Id: [id*="I__tiviewlist__"], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: shouldn't display wishlist button, DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays logo, DOM Id: logo, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays search input, DOM Id: DIV__customsear__41, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays search icon, DOM Id: I__headericon__44, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays profile dropdown, DOM Id: A__accesslink__56, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays cart dropdown, DOM Id: A__cartbt__49, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays cart badge, DOM Id: STRONG____50, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display shoe name, DOM Id: shoe_name, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display shoe image, DOM Id: [id="shoe_img"][style], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display number of reviews, DOM Id: [id*="EM__"], Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display reviewer's name, DOM Id: SMALL____84, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display reviewer's comment, DOM Id: P____83, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display quinity input field, DOM Id: quantity_1, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display size select field, DOM Id: DIV__customsele__92, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display add to cart button, DOM Id: A__btn__114, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display new price, DOM Id: new_price, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display old price, DOM Id: old_price, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display discount, DOM Id: discount, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: shouldn't display header menu, DOM Id: DIV__mainmenu__15, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Selected size should be Small (S), DOM Id: .current, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Displays reviewer name in black color, DOM Id: SMALL____84, Browser: Chrome, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays logo, DOM Id: logo, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays search input, DOM Id: DIV__customsear__41, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays search icon, DOM Id: I__headericon__44, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays profile dropdown, DOM Id: A__accesslink__56, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays cart dropdown, DOM Id: A__cartbt__49, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays cart badge, DOM Id: STRONG____50, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays top banner, DOM Id: [id*="DIV__topbanner__"], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays sort input, DOM Id: [id*="DIV__sortselect__"], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays filter button, DOM Id: li > [id*="A__openfilter__"], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays sort icon, DOM Id: [id*="DIV__sortselect__"], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays the footer, DOM Id: [id*="FOOTER____"], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: shouldn't display filter submit button, DOM Id: filterBtn, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: shouldn't display filter reset button, DOM Id: resetBtn, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: shouldn't display grid view button, DOM Id: [id*="I__tiviewgrid__"], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: shouldn't display list view button, DOM Id: [id*="I__tiviewlist__"], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: shouldn't display wishlist button, DOM Id: A__wishlist__52, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: shouldn't display header menu, DOM Id: DIV__mainmenu__15, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: shouldn't display filter sidebar, DOM Id: filter_col, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 products, DOM Id: [id*="DIV__colcolmd__"], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 product wish buttons, DOM Id: [id*="I__tiheart__"], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 product cart buttons, DOM Id: [id*="I__tishopping__"], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 product compare buttons, DOM Id: [id*="I__ticontrols__"], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 13 itmes in the footor, DOM Id: footer .row li[id*='LI____'], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 3 ribbons on all the products, DOM Id: [id*="SPAN__ribbonoff__"], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 product types on all the products, DOM Id: .grid_item > [id*="A____"], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 product prices on all the products, DOM Id: [id*="SPAN__newprice__"], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 3 product old prices on all the products, DOM Id: [id*="SPAN__oldprice__"], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 18 filter items, DOM Id: [id*="LABEL__containerc__"], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 4 filter types, DOM Id: [id*="A__opened__"][class="opened"], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: displays filter button, DOM Id: li > [id*="A__openfilter__"], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: displays sort icon, DOM Id: [id*="DIV__sortselect__"], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 2 products, DOM Id: [id*="DIV__colcolmd__"], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 1 ribbon on all the products, DOM Id: [id*="SPAN__ribbonoff__"], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 2 product types on all the products, DOM Id: .grid_item > [id*="A____"], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 2 product prices on all the products, DOM Id: [id*="SPAN__newprice__"], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 1 product old prices on all the products, DOM Id: [id*="SPAN__oldprice__"], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: shouldn't display grid view button, DOM Id: [id*="I__tiviewgrid__"], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: shouldn't display list view button, DOM Id: [id*="I__tiviewlist__"], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: shouldn't display wishlist button, DOM Id: A__wishlist__52, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays logo, DOM Id: logo, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays search input, DOM Id: DIV__customsear__41, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays search icon, DOM Id: I__headericon__44, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays profile dropdown, DOM Id: A__accesslink__56, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays cart dropdown, DOM Id: A__cartbt__49, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays cart badge, DOM Id: STRONG____50, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display shoe name, DOM Id: shoe_name, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display shoe image, DOM Id: [id="shoe_img"][style], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display number of reviews, DOM Id: [id*="EM__"], Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display reviewer's name, DOM Id: SMALL____84, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display reviewer's comment, DOM Id: P____83, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display quinity input field, DOM Id: quantity_1, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display size select field, DOM Id: DIV__customsele__92, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display add to cart button, DOM Id: A__btn__114, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display new price, DOM Id: new_price, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display old price, DOM Id: old_price, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display discount, DOM Id: discount, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: shouldn't display header menu, DOM Id: DIV__mainmenu__15, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Selected size should be Small (S), DOM Id: .current, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Displays reviewer name in black color, DOM Id: SMALL____84, Browser: Firefox, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays logo, DOM Id: logo, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays search input, DOM Id: DIV__customsear__41, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays search icon, DOM Id: I__headericon__44, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays profile dropdown, DOM Id: A__accesslink__56, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays cart dropdown, DOM Id: A__cartbt__49, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays cart badge, DOM Id: STRONG____50, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays top banner, DOM Id: [id*="DIV__topbanner__"], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays sort input, DOM Id: [id*="DIV__sortselect__"], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays filter button, DOM Id: li > [id*="A__openfilter__"], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays sort icon, DOM Id: [id*="DIV__sortselect__"], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays the footer, DOM Id: [id*="FOOTER____"], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: shouldn't display filter submit button, DOM Id: filterBtn, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: shouldn't display filter reset button, DOM Id: resetBtn, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: shouldn't display grid view button, DOM Id: [id*="I__tiviewgrid__"], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: shouldn't display list view button, DOM Id: [id*="I__tiviewlist__"], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: shouldn't display wishlist button, DOM Id: A__wishlist__52, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: shouldn't display header menu, DOM Id: DIV__mainmenu__15, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: shouldn't display filter sidebar, DOM Id: filter_col, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 products, DOM Id: [id*="DIV__colcolmd__"], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 product wish buttons, DOM Id: [id*="I__tiheart__"], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 product cart buttons, DOM Id: [id*="I__tishopping__"], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 product compare buttons, DOM Id: [id*="I__ticontrols__"], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 13 itmes in the footor, DOM Id: footer .row li[id*='LI____'], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 3 ribbons on all the products, DOM Id: [id*="SPAN__ribbonoff__"], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 product types on all the products, DOM Id: .grid_item > [id*="A____"], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 product prices on all the products, DOM Id: [id*="SPAN__newprice__"], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 3 product old prices on all the products, DOM Id: [id*="SPAN__oldprice__"], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 18 filter items, DOM Id: [id*="LABEL__containerc__"], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 4 filter types, DOM Id: [id*="A__opened__"][class="opened"], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: displays filter button, DOM Id: li > [id*="A__openfilter__"], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: displays sort icon, DOM Id: [id*="DIV__sortselect__"], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 2 products, DOM Id: [id*="DIV__colcolmd__"], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 1 ribbon on all the products, DOM Id: [id*="SPAN__ribbonoff__"], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 2 product types on all the products, DOM Id: .grid_item > [id*="A____"], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 2 product prices on all the products, DOM Id: [id*="SPAN__newprice__"], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 1 product old prices on all the products, DOM Id: [id*="SPAN__oldprice__"], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: shouldn't display grid view button, DOM Id: [id*="I__tiviewgrid__"], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: shouldn't display list view button, DOM Id: [id*="I__tiviewlist__"], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: shouldn't display wishlist button, DOM Id: A__wishlist__52, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays logo, DOM Id: logo, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays search input, DOM Id: DIV__customsear__41, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays search icon, DOM Id: I__headericon__44, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays profile dropdown, DOM Id: A__accesslink__56, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays cart dropdown, DOM Id: A__cartbt__49, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays cart badge, DOM Id: STRONG____50, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display shoe name, DOM Id: shoe_name, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display shoe image, DOM Id: [id="shoe_img"][style], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display number of reviews, DOM Id: [id*="EM__"], Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display reviewer's name, DOM Id: SMALL____84, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display reviewer's comment, DOM Id: P____83, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display quinity input field, DOM Id: quantity_1, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display size select field, DOM Id: DIV__customsele__92, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display add to cart button, DOM Id: A__btn__114, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display new price, DOM Id: new_price, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display old price, DOM Id: old_price, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display discount, DOM Id: discount, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: shouldn't display header menu, DOM Id: DIV__mainmenu__15, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Selected size should be Small (S), DOM Id: .current, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Displays reviewer name in black color, DOM Id: SMALL____84, Browser: Edge Chromium, Viewport: 786x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays logo, DOM Id: logo, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays search input, DOM Id: DIV__customsear__41, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays search icon, DOM Id: I__headericon__44, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays profile dropdown, DOM Id: A__accesslink__56, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays cart dropdown, DOM Id: A__cartbt__49, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays cart badge, DOM Id: STRONG____50, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays top banner, DOM Id: [id*="DIV__topbanner__"], Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays sort input, DOM Id: [id*="DIV__sortselect__"], Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays sort icon, DOM Id: [id*="DIV__sortselect__"], Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays the footer, DOM Id: [id*="FOOTER____"], Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays filter submit button, DOM Id: filterBtn, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays filter reset button, DOM Id: resetBtn, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays grid view input, DOM Id: [id*="I__tiviewgrid__"], Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays list view input, DOM Id: [id*="I__tiviewlist__"], Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays wishlist dropdown, DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays header menu, DOM Id: DIV__mainmenu__15, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays filter sidebar, DOM Id: filter_col, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 products, DOM Id: [id*="DIV__colcolmd__"], Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 product wish buttons, DOM Id: [id*="I__tiheart__"], Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 product cart buttons, DOM Id: [id*="I__tishopping__"], Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 13 itmes in the footor, DOM Id: footer .row li[id*='LI____'], Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 3 ribbons on all the products, DOM Id: [id*="SPAN__ribbonoff__"], Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 product types on all the products, DOM Id: .grid_item > [id*="A____"], Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 product prices on all the products, DOM Id: [id*="SPAN__newprice__"], Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 3 product old prices on all the products, DOM Id: [id*="SPAN__oldprice__"], Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 18 filter items, DOM Id: [id*="LABEL__containerc__"], Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 4 filter types, DOM Id: [id*="A__opened__"][class="opened"], Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: shouldn't display filter button, DOM Id: li > [id*="A__openfilter__"], Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: displays sort icon, DOM Id: [id*="DIV__sortselect__"], Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 2 products, DOM Id: [id*="DIV__colcolmd__"], Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 1 ribbon on all the products, DOM Id: [id*="SPAN__ribbonoff__"], Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 2 product types on all the products, DOM Id: .grid_item > [id*="A____"], Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 2 product prices on all the products, DOM Id: [id*="SPAN__newprice__"], Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 1 product old prices on all the products, DOM Id: [id*="SPAN__oldprice__"], Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: display grid view input, DOM Id: [id*="I__tiviewgrid__"], Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: display list view input, DOM Id: [id*="I__tiviewlist__"], Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: display wishlist dropdown, DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: shouldn't display filter button, DOM Id: li > [id*="A__openfilter__"], Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays logo, DOM Id: logo, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays search input, DOM Id: DIV__customsear__41, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays search icon, DOM Id: I__headericon__44, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays profile dropdown, DOM Id: A__accesslink__56, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays cart dropdown, DOM Id: A__cartbt__49, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays cart badge, DOM Id: STRONG____50, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays header menu, DOM Id: DIV__mainmenu__15, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display shoe name, DOM Id: shoe_name, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display shoe image, DOM Id: [id="shoe_img"][style], Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display number of reviews, DOM Id: [id*="EM__"], Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display reviewer's name, DOM Id: SMALL____84, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display reviewer's comment, DOM Id: P____83, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display quinity input field, DOM Id: quantity_1, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display size select field, DOM Id: DIV__customsele__92, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display add to cart button, DOM Id: A__btn__114, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display new price, DOM Id: new_price, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display old price, DOM Id: old_price, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display discount, DOM Id: discount, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Selected size should be Small (S), DOM Id: .current, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Displays reviewer name in black color, DOM Id: SMALL____84, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays logo, DOM Id: logo, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays search input, DOM Id: DIV__customsear__41, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays search icon, DOM Id: I__headericon__44, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays profile dropdown, DOM Id: A__accesslink__56, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays cart dropdown, DOM Id: A__cartbt__49, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays cart badge, DOM Id: STRONG____50, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays top banner, DOM Id: [id*="DIV__topbanner__"], Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays sort input, DOM Id: [id*="DIV__sortselect__"], Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays sort icon, DOM Id: [id*="DIV__sortselect__"], Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays the footer, DOM Id: [id*="FOOTER____"], Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays filter submit button, DOM Id: filterBtn, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays filter reset button, DOM Id: resetBtn, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays grid view input, DOM Id: [id*="I__tiviewgrid__"], Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays list view input, DOM Id: [id*="I__tiviewlist__"], Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays wishlist dropdown, DOM Id: A__wishlist__52, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays header menu, DOM Id: DIV__mainmenu__15, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays filter sidebar, DOM Id: filter_col, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 products, DOM Id: [id*="DIV__colcolmd__"], Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 product wish buttons, DOM Id: [id*="I__tiheart__"], Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 product cart buttons, DOM Id: [id*="I__tishopping__"], Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 13 itmes in the footor, DOM Id: footer .row li[id*='LI____'], Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 3 ribbons on all the products, DOM Id: [id*="SPAN__ribbonoff__"], Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 product types on all the products, DOM Id: .grid_item > [id*="A____"], Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 product prices on all the products, DOM Id: [id*="SPAN__newprice__"], Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 3 product old prices on all the products, DOM Id: [id*="SPAN__oldprice__"], Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 18 filter items, DOM Id: [id*="LABEL__containerc__"], Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 4 filter types, DOM Id: [id*="A__opened__"][class="opened"], Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: shouldn't display filter button, DOM Id: li > [id*="A__openfilter__"], Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: displays sort icon, DOM Id: [id*="DIV__sortselect__"], Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 2 products, DOM Id: [id*="DIV__colcolmd__"], Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 1 ribbon on all the products, DOM Id: [id*="SPAN__ribbonoff__"], Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 2 product types on all the products, DOM Id: .grid_item > [id*="A____"], Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 2 product prices on all the products, DOM Id: [id*="SPAN__newprice__"], Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 1 product old prices on all the products, DOM Id: [id*="SPAN__oldprice__"], Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: display grid view input, DOM Id: [id*="I__tiviewgrid__"], Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: display list view input, DOM Id: [id*="I__tiviewlist__"], Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: display wishlist dropdown, DOM Id: A__wishlist__52, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: shouldn't display filter button, DOM Id: li > [id*="A__openfilter__"], Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays logo, DOM Id: logo, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays search input, DOM Id: DIV__customsear__41, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays search icon, DOM Id: I__headericon__44, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays profile dropdown, DOM Id: A__accesslink__56, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays cart dropdown, DOM Id: A__cartbt__49, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays cart badge, DOM Id: STRONG____50, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays header menu, DOM Id: DIV__mainmenu__15, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display shoe name, DOM Id: shoe_name, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display shoe image, DOM Id: [id="shoe_img"][style], Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display number of reviews, DOM Id: [id*="EM__"], Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display reviewer's name, DOM Id: SMALL____84, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display reviewer's comment, DOM Id: P____83, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display quinity input field, DOM Id: quantity_1, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display size select field, DOM Id: DIV__customsele__92, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display add to cart button, DOM Id: A__btn__114, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display new price, DOM Id: new_price, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display old price, DOM Id: old_price, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display discount, DOM Id: discount, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Selected size should be Small (S), DOM Id: .current, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Displays reviewer name in black color, DOM Id: SMALL____84, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays logo, DOM Id: logo, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays search input, DOM Id: DIV__customsear__41, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays search icon, DOM Id: I__headericon__44, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays profile dropdown, DOM Id: A__accesslink__56, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays cart dropdown, DOM Id: A__cartbt__49, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays cart badge, DOM Id: STRONG____50, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays top banner, DOM Id: [id*="DIV__topbanner__"], Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays sort input, DOM Id: [id*="DIV__sortselect__"], Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays sort icon, DOM Id: [id*="DIV__sortselect__"], Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays the footer, DOM Id: [id*="FOOTER____"], Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays filter submit button, DOM Id: filterBtn, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays filter reset button, DOM Id: resetBtn, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays grid view input, DOM Id: [id*="I__tiviewgrid__"], Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays list view input, DOM Id: [id*="I__tiviewlist__"], Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays wishlist dropdown, DOM Id: A__wishlist__52, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays header menu, DOM Id: DIV__mainmenu__15, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays filter sidebar, DOM Id: filter_col, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 products, DOM Id: [id*="DIV__colcolmd__"], Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 product wish buttons, DOM Id: [id*="I__tiheart__"], Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 product cart buttons, DOM Id: [id*="I__tishopping__"], Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 13 itmes in the footor, DOM Id: footer .row li[id*='LI____'], Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 3 ribbons on all the products, DOM Id: [id*="SPAN__ribbonoff__"], Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 product types on all the products, DOM Id: .grid_item > [id*="A____"], Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 9 product prices on all the products, DOM Id: [id*="SPAN__newprice__"], Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 3 product old prices on all the products, DOM Id: [id*="SPAN__oldprice__"], Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 18 filter items, DOM Id: [id*="LABEL__containerc__"], Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: should return 4 filter types, DOM Id: [id*="A__opened__"][class="opened"], Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: shouldn't display filter button, DOM Id: li > [id*="A__openfilter__"], Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: displays sort icon, DOM Id: [id*="DIV__sortselect__"], Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 2 products, DOM Id: [id*="DIV__colcolmd__"], Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 1 ribbon on all the products, DOM Id: [id*="SPAN__ribbonoff__"], Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 2 product types on all the products, DOM Id: .grid_item > [id*="A____"], Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 2 product prices on all the products, DOM Id: [id*="SPAN__newprice__"], Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: should return 1 product old prices on all the products, DOM Id: [id*="SPAN__oldprice__"], Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: display grid view input, DOM Id: [id*="I__tiviewgrid__"], Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: display list view input, DOM Id: [id*="I__tiviewlist__"], Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: display wishlist dropdown, DOM Id: A__wishlist__52, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: shouldn't display filter button, DOM Id: li > [id*="A__openfilter__"], Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays logo, DOM Id: logo, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays search input, DOM Id: DIV__customsear__41, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays search icon, DOM Id: I__headericon__44, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays profile dropdown, DOM Id: A__accesslink__56, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays cart dropdown, DOM Id: A__cartbt__49, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays cart badge, DOM Id: STRONG____50, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: displays header menu, DOM Id: DIV__mainmenu__15, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display shoe name, DOM Id: shoe_name, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display shoe image, DOM Id: [id="shoe_img"][style], Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display number of reviews, DOM Id: [id*="EM__"], Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display reviewer's name, DOM Id: SMALL____84, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display reviewer's comment, DOM Id: P____83, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display quinity input field, DOM Id: quantity_1, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display size select field, DOM Id: DIV__customsele__92, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display add to cart button, DOM Id: A__btn__114, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display new price, DOM Id: new_price, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display old price, DOM Id: old_price, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: display discount, DOM Id: discount, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Selected size should be Small (S), DOM Id: .current, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Displays reviewer name in black color, DOM Id: SMALL____84, Browser: Edge Chromium, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: displays logo, DOM Id: logo, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: displays profile dropdown, DOM Id: A__accesslink__56, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: displays cart dropdown, DOM Id: A__cartbt__49, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: displays top banner, DOM Id: [id*="DIV__topbanner__"], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: displays sort input, DOM Id: [id*="DIV__sortselect__"], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: displays filter button, DOM Id: li > [id*="A__openfilter__"], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: displays sort icon, DOM Id: [id*="DIV__sortselect__"], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: displays the footer, DOM Id: [id*="FOOTER____"], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 9 products, DOM Id: [id*="DIV__colcolmd__"], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 9 products, DOM Id: [id*="DIV__colcolmd__"], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 9 product wish buttons, DOM Id: [id*="I__tiheart__"], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 9 product cart buttons, DOM Id: [id*="I__tishopping__"], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 13 itmes in the footor, DOM Id: footer .row li[id*='LI____'], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 3 ribbons on all the products, DOM Id: [id*="SPAN__ribbonoff__"], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 9 product types on all the products, DOM Id: .grid_item > [id*="A____"], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 9 product prices on all the products, DOM Id: [id*="SPAN__newprice__"], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 3 product old prices on all the products, DOM Id: [id*="SPAN__oldprice__"], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 18 filter items, DOM Id: [id*="LABEL__containerc__"], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 4 filter types, DOM Id: [id*="A__opened__"][class="opened"], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display search input, DOM Id: DIV__customsear__41, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display search icon, DOM Id: I__headericon__44, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display cart badge, DOM Id: STRONG____50, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display filter submit button, DOM Id: filterBtn, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display filter reset button, DOM Id: resetBtn, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display grid view input, DOM Id: [id*="I__tiviewgrid__"], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display list view input, DOM Id: [id*="I__tiviewlist__"], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display wishlist dropdown, DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display header menu, DOM Id: DIV__mainmenu__15, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display filter sidebar, DOM Id: filter_col, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: displays filter button, DOM Id: li > [id*="A__openfilter__"], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: displays sort icon, DOM Id: [id*="DIV__sortselect__"], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: should return 2 products, DOM Id: [id*="DIV__colcolmd__"], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: should return 1 ribbon on all the products, DOM Id: [id*="SPAN__ribbonoff__"], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: should return 2 product types on all the products, DOM Id: .grid_item > [id*="A____"], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: should return 2 product prices on all the products, DOM Id: [id*="SPAN__newprice__"], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: should return 1 product old prices on all the products, DOM Id: [id*="SPAN__oldprice__"], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: shouldn't display grid view button, DOM Id: [id*="I__tiviewgrid__"], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: shouldn't display list view button, DOM Id: [id*="I__tiviewlist__"], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: shouldn't display wishlist button, DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: displays logo, DOM Id: logo, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: displays profile dropdown, DOM Id: A__accesslink__56, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: displays cart dropdown, DOM Id: A__cartbt__49, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: displays cart badge, DOM Id: STRONG____50, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display shoe name, DOM Id: shoe_name, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display shoe image, DOM Id: [id="shoe_img"][style], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display number of reviews, DOM Id: [id*="EM__"], Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display reviewer's name, DOM Id: SMALL____84, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display reviewer's comment, DOM Id: P____83, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display quinity input field, DOM Id: quantity_1, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display size select field, DOM Id: DIV__customsele__92, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display add to cart button, DOM Id: A__btn__114, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display new price, DOM Id: new_price, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display old price, DOM Id: old_price, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display discount, DOM Id: discount, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: shouldn't display search input, DOM Id: DIV__customsear__41, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: shouldn't display search icon, DOM Id: I__headericon__44, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: shouldn't display header menu, DOM Id: DIV__mainmenu__15, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: Selected size should be Small (S), DOM Id: .current, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: Displays reviewer name in black color, DOM Id: SMALL____84, Browser: Chrome, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: displays logo, DOM Id: logo, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: displays profile dropdown, DOM Id: A__accesslink__56, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: displays cart dropdown, DOM Id: A__cartbt__49, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: displays top banner, DOM Id: [id*="DIV__topbanner__"], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: displays sort input, DOM Id: [id*="DIV__sortselect__"], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: displays filter button, DOM Id: li > [id*="A__openfilter__"], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: displays sort icon, DOM Id: [id*="DIV__sortselect__"], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: displays the footer, DOM Id: [id*="FOOTER____"], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 9 products, DOM Id: [id*="DIV__colcolmd__"], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 9 products, DOM Id: [id*="DIV__colcolmd__"], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 9 product wish buttons, DOM Id: [id*="I__tiheart__"], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 9 product cart buttons, DOM Id: [id*="I__tishopping__"], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 13 itmes in the footor, DOM Id: footer .row li[id*='LI____'], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 3 ribbons on all the products, DOM Id: [id*="SPAN__ribbonoff__"], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 9 product types on all the products, DOM Id: .grid_item > [id*="A____"], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 9 product prices on all the products, DOM Id: [id*="SPAN__newprice__"], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 3 product old prices on all the products, DOM Id: [id*="SPAN__oldprice__"], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 18 filter items, DOM Id: [id*="LABEL__containerc__"], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 4 filter types, DOM Id: [id*="A__opened__"][class="opened"], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display search input, DOM Id: DIV__customsear__41, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display search icon, DOM Id: I__headericon__44, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display cart badge, DOM Id: STRONG____50, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display filter submit button, DOM Id: filterBtn, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display filter reset button, DOM Id: resetBtn, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display grid view input, DOM Id: [id*="I__tiviewgrid__"], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display list view input, DOM Id: [id*="I__tiviewlist__"], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display wishlist dropdown, DOM Id: A__wishlist__52, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display header menu, DOM Id: DIV__mainmenu__15, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display filter sidebar, DOM Id: filter_col, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: displays filter button, DOM Id: li > [id*="A__openfilter__"], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: displays sort icon, DOM Id: [id*="DIV__sortselect__"], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: should return 2 products, DOM Id: [id*="DIV__colcolmd__"], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: should return 1 ribbon on all the products, DOM Id: [id*="SPAN__ribbonoff__"], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: should return 2 product types on all the products, DOM Id: .grid_item > [id*="A____"], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: should return 2 product prices on all the products, DOM Id: [id*="SPAN__newprice__"], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: should return 1 product old prices on all the products, DOM Id: [id*="SPAN__oldprice__"], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: shouldn't display grid view button, DOM Id: [id*="I__tiviewgrid__"], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: shouldn't display list view button, DOM Id: [id*="I__tiviewlist__"], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: shouldn't display wishlist button, DOM Id: A__wishlist__52, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: displays logo, DOM Id: logo, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: displays profile dropdown, DOM Id: A__accesslink__56, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: displays cart dropdown, DOM Id: A__cartbt__49, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: displays cart badge, DOM Id: STRONG____50, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display shoe name, DOM Id: shoe_name, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display shoe image, DOM Id: [id="shoe_img"][style], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display number of reviews, DOM Id: [id*="EM__"], Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display reviewer's name, DOM Id: SMALL____84, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display reviewer's comment, DOM Id: P____83, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display quinity input field, DOM Id: quantity_1, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display size select field, DOM Id: DIV__customsele__92, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display add to cart button, DOM Id: A__btn__114, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display new price, DOM Id: new_price, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display old price, DOM Id: old_price, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display discount, DOM Id: discount, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: shouldn't display search input, DOM Id: DIV__customsear__41, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: shouldn't display search icon, DOM Id: I__headericon__44, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: shouldn't display header menu, DOM Id: DIV__mainmenu__15, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: Selected size should be Small (S), DOM Id: .current, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: Displays reviewer name in black color, DOM Id: SMALL____84, Browser: Firefox, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: displays logo, DOM Id: logo, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: displays profile dropdown, DOM Id: A__accesslink__56, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: displays cart dropdown, DOM Id: A__cartbt__49, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: displays top banner, DOM Id: [id*="DIV__topbanner__"], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: displays sort input, DOM Id: [id*="DIV__sortselect__"], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: displays filter button, DOM Id: li > [id*="A__openfilter__"], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: displays sort icon, DOM Id: [id*="DIV__sortselect__"], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: displays the footer, DOM Id: [id*="FOOTER____"], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 9 products, DOM Id: [id*="DIV__colcolmd__"], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 9 products, DOM Id: [id*="DIV__colcolmd__"], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 9 product wish buttons, DOM Id: [id*="I__tiheart__"], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 9 product cart buttons, DOM Id: [id*="I__tishopping__"], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 13 itmes in the footor, DOM Id: footer .row li[id*='LI____'], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 3 ribbons on all the products, DOM Id: [id*="SPAN__ribbonoff__"], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 9 product types on all the products, DOM Id: .grid_item > [id*="A____"], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 9 product prices on all the products, DOM Id: [id*="SPAN__newprice__"], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 3 product old prices on all the products, DOM Id: [id*="SPAN__oldprice__"], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 18 filter items, DOM Id: [id*="LABEL__containerc__"], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should return 4 filter types, DOM Id: [id*="A__opened__"][class="opened"], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display search input, DOM Id: DIV__customsear__41, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display search icon, DOM Id: I__headericon__44, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display cart badge, DOM Id: STRONG____50, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display filter submit button, DOM Id: filterBtn, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display filter reset button, DOM Id: resetBtn, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display grid view input, DOM Id: [id*="I__tiviewgrid__"], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display list view input, DOM Id: [id*="I__tiviewlist__"], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display wishlist dropdown, DOM Id: A__wishlist__52, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display header menu, DOM Id: DIV__mainmenu__15, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 1, Test Name: should not display filter sidebar, DOM Id: filter_col, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: displays filter button, DOM Id: li > [id*="A__openfilter__"], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: displays sort icon, DOM Id: [id*="DIV__sortselect__"], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: should return 2 products, DOM Id: [id*="DIV__colcolmd__"], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: should return 1 ribbon on all the products, DOM Id: [id*="SPAN__ribbonoff__"], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: should return 2 product types on all the products, DOM Id: .grid_item > [id*="A____"], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: should return 2 product prices on all the products, DOM Id: [id*="SPAN__newprice__"], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: should return 1 product old prices on all the products, DOM Id: [id*="SPAN__oldprice__"], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: shouldn't display grid view button, DOM Id: [id*="I__tiviewgrid__"], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: shouldn't display list view button, DOM Id: [id*="I__tiviewlist__"], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 2, Test Name: shouldn't display wishlist button, DOM Id: A__wishlist__52, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: displays logo, DOM Id: logo, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: displays profile dropdown, DOM Id: A__accesslink__56, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: displays cart dropdown, DOM Id: A__cartbt__49, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: displays cart badge, DOM Id: STRONG____50, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display shoe name, DOM Id: shoe_name, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display shoe image, DOM Id: [id="shoe_img"][style], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display number of reviews, DOM Id: [id*="EM__"], Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display reviewer's name, DOM Id: SMALL____84, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display reviewer's comment, DOM Id: P____83, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display quinity input field, DOM Id: quantity_1, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display size select field, DOM Id: DIV__customsele__92, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display add to cart button, DOM Id: A__btn__114, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display new price, DOM Id: new_price, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display old price, DOM Id: old_price, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: display discount, DOM Id: discount, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: shouldn't display search input, DOM Id: DIV__customsear__41, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: shouldn't display search icon, DOM Id: I__headericon__44, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: shouldn't display header menu, DOM Id: DIV__mainmenu__15, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: Selected size should be Small (S), DOM Id: .current, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
+"Task: 3, Test Name: Displays reviewer name in black color, DOM Id: SMALL____84, Browser: Edge Chromium, Viewport: 375x800, Device: Mobile, Status: Pass
