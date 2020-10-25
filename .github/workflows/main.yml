@@ -15,5 +15,6 @@ jobs:
       run: echo "::set-output name=sha7::$(echo ${GITHUB_SHA} | cut -c1-7)"
     - name: Print vars
       run: echo "${{ steps.slug.outputs.sha7 }}"
-    - run: echo "${{ steps.today.outputs.date }}"
+    - run: echo "action_state=yellow" >> $GITHUB_ENV
     - run: echo "${{ github.event.repository.name }}"
+    - run: echo "${{ action_state }} ${{ GITHUB_ENV }}"
