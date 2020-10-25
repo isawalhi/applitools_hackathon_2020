@@ -22,4 +22,4 @@ jobs:
       run: echo "${{ steps.slug.outputs.sha7 }}"
     - run: echo "action_state=yellow" >> $GITHUB_ENV
     - run: echo "${{ github.event.repository.name }}"
-    - run: echo "${{ env.action_state }} ${{ env.short_sha }} ${{ REPO_NAME }} ${{ github.event.repository.id }}"
+    - run: echo "${{ env.action_state }} ${{ env.short_sha }} ${{ env.REPO_NAME }} ${{ github.event.repository.id }}"
