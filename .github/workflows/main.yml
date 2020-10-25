@@ -10,7 +10,8 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-    - name: Sleep for 30 m
-      uses: jakejarvis/wait-action@master
-      with:
-        time: '30m'
+    - name: Inject slug/short variables
+      uses: rlespinasse/github-slug-action@v2.x
+    - name: Print vars
+      run: echo "${{ env.GITHUB_SHA_SHORT }}"
+    - run: echo "${{ env.GITHUB_SHA }}"
