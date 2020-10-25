@@ -14,5 +14,5 @@ jobs:
       id: slug
       run: echo "::set-output name=sha7::$(echo ${GITHUB_SHA} | cut -c1-7)"
     - name: Print vars
-      run: echo "${{ steps.slug.outputs.sha8 }}"
+      run: echo "${{ steps.slug.outputs.sha7 }}"
     - run: echo "${{ steps.today.outputs.date }}"
