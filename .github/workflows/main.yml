@@ -14,8 +14,9 @@ jobs:
     - name: Get short SHA
       id: slug
       run: echo "::set-output name=sha7::$(echo ${GITHUB_SHA} | cut -c1-7)"
+    - run: echo "short_sha=$(echo ${GITHUB_SHA} | cut -c1-7)" >> $GITHUB_ENV
     - name: Print vars
       run: echo "${{ steps.slug.outputs.sha7 }}"
     - run: echo "action_state=yellow" >> $GITHUB_ENV
     - run: echo "${{ github.event.repository.name }}"
-    - run: echo "${{ env.action_state }}"
+    - run: echo "${{ env.action_state }} ${{ env.short_sha }}"
