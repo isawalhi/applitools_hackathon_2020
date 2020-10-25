@@ -10,8 +10,9 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-    - name: Inject slug/short variables
-      uses: rlespinasse/github-slug-action@v2.x
+    - name: Get short SHA
+      id: slug
+      run: echo "::set-output name=sha7::$(echo ${GITHUB_SHA} | cut -c1-7)"
     - name: Print vars
-      run: echo "${{ env.GITHUB_SHA_SHORT }}"
-    - run: echo "${{ env.GITHUB_SHA }}"
+      run: echo "${{ steps.slug.outputs.sha8 }}"
+    - run: echo "${{ steps.today.outputs.date }}"
