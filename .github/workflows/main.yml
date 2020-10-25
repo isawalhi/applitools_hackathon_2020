@@ -16,3 +16,4 @@ jobs:
     - name: Print vars
       run: echo "${{ steps.slug.outputs.sha7 }}"
     - run: echo "${{ steps.today.outputs.date }}"
+    - run: echo "${{ github.event.repository.name }}"
