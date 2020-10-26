@@ -27,6 +27,8 @@ jobs:
     - name: Slack Notification
       uses: rtCamp/action-slack-notify@master
       env:
+          SITE_NAME: portal.adev.scopely.io 
+          SLACK_USERNAME: Portal_CI
           SLACK_CHANNEL: portal-testing
           SLACK_ICON_EMOJI: ':zap:'
           SLACK_FOOTER: Powered by portal team
