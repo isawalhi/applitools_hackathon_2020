@@ -28,12 +28,13 @@ jobs:
       uses: 8398a7/action-slack@v3
       with:
         status: custom
+        fields: commit,repo,author,took
         custom_payload: |
             {
               channel: "C01DNDMS3ND",
               text: "Custom Field Check",
               attachments: [{
-                "author_name": "8398a7@action-slack", // json
+                "author_name": "${{ author }}",
                 fallback: 'fallback',
                 color: 'good',
                 title: 'CI Result',
