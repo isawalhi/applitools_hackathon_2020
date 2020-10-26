@@ -28,6 +28,7 @@ jobs:
       uses: 8398a7/action-slack@v3
       with:
         status: custom
+        channel: C01DNDMS3ND
         custom_payload: |
             {
               text: "Custom Field Check",
