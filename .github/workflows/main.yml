@@ -33,8 +33,8 @@ jobs:
           SLACK_FOOTER: Powered by portal team
           SLACK_TITLE: Default theme testing Url
           SLACK_MESSAGE: |
-                ```<http://www.hyperlinkcode.com/|Default theme>
-                <http://www.hyperlinkcode.com/|Microfronts Url>```
+                `<http://www.hyperlinkcode.com/|Default theme>
+                <http://www.hyperlinkcode.com/|Microfronts Url>`
           SLACK_WEBHOOK: ${{ secrets.PORTAL_CI_CD_SLACK_WEBHOOK }}
 
            
