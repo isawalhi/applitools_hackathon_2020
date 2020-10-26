@@ -34,7 +34,7 @@ jobs:
               channel: "C01DNDMS3ND",
               text: "Custom Field Check",
               attachments: [{
-                "author_name": "${{ author }}",
+                "author_name": "${{ env.AS_AUTHOR }}",
                 fallback: 'fallback',
                 color: 'good',
                 title: 'CI Result',
