@@ -30,7 +30,7 @@ jobs:
         status: custom
         custom_payload: |
             {
-              channel: C01DNDMS3ND
+              channel: C01DNDMS3ND,
               text: "Custom Field Check",
               attachments: [{
                 "author_name": "8398a7@action-slack", // json
