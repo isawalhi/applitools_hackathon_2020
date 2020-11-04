@@ -7,12 +7,14 @@ on:
         default: 'warning'
       tags:
         description: 'Test scenario tags'
-        default: [{"portalHost":"beta"},{"portalCommon":"master"}]
+        default: '[{"portalHost":"beta"},{"portalCommon":"master"}]'
 jobs:
-  printInputs:
-    runs-on: ubuntu-latest
+  loopcheck:
+    strategy:
+      matrix:
+        scssfiles: [fileone,file2]
+    runs-on: [ubuntu-latest]
     steps:
-    - run: |
-        echo "Log level: ${{ github.event.inputs.logLevel }}"
-        echo "Tags: ${{ github.event.inputs.tags }}" 
-        echo "Tags: ${{ github.event.inputs.tags }}" 
+      - name: test
+        run: |
+          echo ${{ matrix.scssfiles }}.scss
