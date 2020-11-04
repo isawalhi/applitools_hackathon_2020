@@ -7,13 +7,13 @@ on:
         default: 'warning'
       tags:
         description: 'Test scenario tags'
-        default: [{"portalHost":"beta"},{"portalCommon":"master"}]
+        default: '[{"portalHost":"beta"},{"portalCommon":"master"}]'
 jobs:
   build:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node: ${{ github.event.inputs.tags }}
+        node: fromJson(${{ github.event.inputs.tags }})
     steps:
       - uses: actions/setup-node@v1
         with:
