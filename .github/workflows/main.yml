@@ -1,19 +1,24 @@
 on: 
   workflow_dispatch:
     inputs:
-      logLevel:
-        description: 'Log level'     
+      portalHost:
+        description: 'Portal Host'     
         required: true
-        default: 'warning'
-      tags:
-        description: 'Test scenario tags'
-        default: ["portalHost","portalCommon"]
+        default: 'beta'
+      portalStarter:
+        description: 'Portal Starter'     
+        required: true
+        default: 'beta'
+      portalCommon:
+        description: 'Portal Common'     
+        required: true
+        default: 'beta'
 jobs:
   build:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node: ${{ github.event.inputs.tags }}
+        node: ["${{ github.event.inputs.portalHost }}","${{ github.event.inputs.portalStarter }}"]
     steps:
       - uses: actions/setup-node@v1
         with:
@@ -22,7 +27,7 @@ jobs:
      needs: build
      runs-on: ubuntu-latest
      steps:
-       - run: echo "I am here"
+       - run: echo "I am here ${{ github.event.inputs }}"
     
 # jobs:
 #   build:
