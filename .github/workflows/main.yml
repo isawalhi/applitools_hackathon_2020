@@ -20,9 +20,7 @@ jobs:
       matrix:
         node: ["${{ github.event.inputs.portalHost }}","${{ github.event.inputs.portalStarter }}"]
     steps:
-      - uses: actions/setup-node@v1
-        with:
-          node-version: ${{ matrix.node }}
+      - run: echo "test"
   deploy:
      needs: build
      runs-on: ubuntu-latest
