@@ -9,12 +9,13 @@ on:
         description: 'Test scenario tags'
         default: '[{"portalHost":"beta"},{"portalCommon":"master"}]'
 jobs:
-  loopcheck:
-    strategy:
-      matrix:
-        scssfiles: [fileone,file2]
-    runs-on: [ubuntu-latest]
+  build:
+    runs-on: ubuntu-latest
+    
     steps:
-      - name: test
-        run: |
-          echo ${{ matrix.scssfiles }}.scss
+    - uses: actions/checkout@v2
+    
+    - name: Run a one-line script
+      run: |
+        echo "Tags: ${{ github.event.inputs.tags }} ${{ github.event.inputs.tags }}[0]" 
+
