@@ -17,5 +17,6 @@ jobs:
     
     - name: Run a one-line script
       run: |
-        echo "Tags: ${{ github.event.inputs.tags }} ${{ github.event.inputs.tags }}[0]" 
+        echo "Tags: ${{ github.event.inputs.tags }} ${{ github.event.inputs.tags }}[0]"
+    - run: for f in ${{ github.event.inputs.tags }}; do echo $f; done
 
