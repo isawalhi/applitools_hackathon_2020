@@ -11,12 +11,28 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+    strategy:
+      matrix:
+        node: [6, 8, 10]
     steps:
-    - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node }}
+  deploy:
+     needs: build
+     runs-on: ubuntu-latest
+     steps:
+       - run: echo "I am here"
     
-    - name: Run a one-line script
-      run: |
-        echo "Tags: ${{ github.event.inputs.tags }} ${{ github.event.inputs.tags }}[0]"
-    - run: for f in ${{ github.event.inputs.tags }}; do echo $f; done
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+    
+#     steps:
+#     - uses: actions/checkout@v2
+    
+#     - name: Run a one-line script
+#       run: |
+#         echo "Tags: ${{ github.event.inputs.tags }} ${{ github.event.inputs.tags }}[0]"
+#     - run: for f in ${{ github.event.inputs.tags }}; do echo $f; done
 
