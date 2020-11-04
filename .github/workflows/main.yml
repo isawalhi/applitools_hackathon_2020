@@ -7,7 +7,7 @@ on:
         default: 'warning'
       tags:
         description: 'Test scenario tags'
-        default: '[{"portalHost":"beta"},{"portalCommon":"master"}]'
+        default: [{"portalHost":"beta"},{"portalCommon":"master"}]
 jobs:
   build:
     runs-on: ubuntu-latest
