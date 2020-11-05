@@ -14,6 +14,10 @@ on:
         required: true
         default: 'beta'
 jobs:
+  get-shared:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: shared
   build:
     runs-on: ubuntu-latest
     strategy:
