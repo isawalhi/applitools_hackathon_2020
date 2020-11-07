@@ -17,7 +17,7 @@ jobs:
   get-shared:
     runs-on: ubuntu-latest
     steps:
-      - uses: isawalhi/applitools_hackathon_2020/shared
+      - uses: isawalhi/applitools_hackathon_2020/shared@master
   build:
     runs-on: ubuntu-latest
     strategy:
