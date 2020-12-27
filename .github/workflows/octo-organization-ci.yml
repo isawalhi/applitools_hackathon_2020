@@ -11,4 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      run: git clone https://github.com/isawalhi/applitools_hackathon_2020.git portal-new
+      - run: git clone https://github.com/isawalhi/applitools_hackathon_2020.git portal-new
+      - run: |
+          cd portal-new
+          git checkout master
