@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - uses: actions/checkout@v2
-    
-    - name: Run a one-line script
-      run: echo Hello from Octo Organization
+      run: git clone https://github.com/isawalhi/applitools_hackathon_2020.git portal-new
+      run:|
+          cd portal-new
+          git checkout master
